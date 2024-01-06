@@ -1,6 +1,6 @@
-# My Project
+# Log In | Sign Up
 
-Welcome to my project! This repository contains the source code for my awesome webpage.
+Welcome to the project! This repository contains the source code for below login/signup page.
 
 ## Live Demo
 
